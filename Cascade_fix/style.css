@@ -1,0 +1,18 @@
+.parent1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.child1 p{
+    font-size: 10px;
+}
+
+.button .Confirm{
+    background-color: green;
+    color: white;
+}
+
+.parent2 .child2 .child3{
+    font-weight: bold;
+}
+
