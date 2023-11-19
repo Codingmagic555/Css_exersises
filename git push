@@ -1,0 +1,72 @@
+[33mcommit fc7b5cea5266ffdc5e21a76dab396fd297f62fe0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 368be6f 1de00d7
+Author: codingmagic555 <delacruz917354268@gmail.com>
+Date:   Sun Nov 19 17:45:44 2023 +0800
+
+    Edit index.html and style.css
+
+[33mcommit 368be6ffc3c7e690fa72d94fa4b5c64cae095b82[m
+Author: codingmagic555 <delacruz917354268@gmail.com>
+Date:   Wed Nov 15 11:50:18 2023 +0800
+
+    Add 05-decendent-combinator
+
+[33mcommit b014cceada6f18da519701d459c9b826603b0848[m
+Author: codingmagic555 <delacruz917354268@gmail.com>
+Date:   Wed Nov 15 11:45:40 2023 +0800
+
+    Add index.html and style.css
+
+[33mcommit 1de00d7aaa09d9df1993ac9091eb006b66b742cd[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Codingmagic555 <147677889+Codingmagic555@users.noreply.github.com>
+Date:   Wed Nov 15 11:06:59 2023 +0800
+
+    Add files via upload
+
+[33mcommit fd061a4bd267f0a5c546cece7690ae7f4ac8dada[m
+Author: codingmagic555 <delacruz917354268@gmail.com>
+Date:   Tue Nov 14 18:04:47 2023 +0800
+
+    Add chaining_selecetors
+
+[33mcommit e4b300f9d15c58977511dedc331ba10075b7aa0d[m
+Author: codingmagic555 <delacruz917354268@gmail.com>
+Date:   Tue Nov 14 17:37:48 2023 +0800
+
+    Add index.html and style.css
+
+[33mcommit e19e76422f7130a5426dc80c50615cf8b72ad85e[m
+Author: codingmagic555 <delacruz917354268@gmail.com>
+Date:   Tue Nov 14 16:46:57 2023 +0800
+
+    Add 03-grouping-selectors
+
+[33mcommit 4c4cf1c0ce115e511bf36fa11b3993b0a39f32be[m
+Author: codingmagic555 <delacruz917354268@gmail.com>
+Date:   Tue Nov 14 16:40:41 2023 +0800
+
+    Edit index.html and style.css
+
+[33mcommit d0b0a1994314dcb6fb26231b4e6d5a9a534a5434[m
+Author: codingmagic555 <delacruz917354268@gmail.com>
+Date:   Tue Nov 14 15:55:33 2023 +0800
+
+    Add index.html and style.css
+
+[33mcommit a7a0029b5f4879aad89b4657a3a1114fa10b6bea[m
+Author: codingmagic555 <delacruz917354268@gmail.com>
+Date:   Tue Nov 14 15:43:24 2023 +0800
+
+    Edit index.html and style.css
+
+[33mcommit 90d824ae28b66fa7f1c3d0aed2d6eb83c70302e0[m
+Author: codingmagic555 <delacruz917354268@gmail.com>
+Date:   Tue Nov 14 14:40:47 2023 +0800
+
+    Add index.html and style.css
+
+[33mcommit 0a1cb53ae24cd5411f7c1955b9fa8237a44b424f[m
+Author: Codingmagic555 <147677889+Codingmagic555@users.noreply.github.com>
+Date:   Tue Nov 14 14:26:15 2023 +0800
+
+    Initial commit
